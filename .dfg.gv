@@ -1,0 +1,19 @@
+graph G {
+  rankdir=LR;
+  concentrate=true;
+  overlap=false;
+  splines=true;
+  ranksep=0;
+
+  // writes cluster
+  subgraph cluster0 {
+    label = "writes";
+  }
+
+  // reads cluster
+  subgraph cluster1 {
+    label = "reads";
+  }
+
+  // edges
+}

@@ -1,0 +1,10 @@
+digraph G {
+  rankdir=LR;
+  splines=spline;
+  overlap=false;
+  ranksep=0;
+  // write port nodes
+  // read  port nodes
+  // dual-porte BRAMs and edges
+  node[shape=record];
+}

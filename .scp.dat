@@ -1,0 +1,12 @@
+# Set cover ILP AMPL data file
+
+data;
+
+set I := ;
+set J := ;
+
+param a (tr):
+                                         :=
+;
+
+end;

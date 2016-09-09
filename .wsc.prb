@@ -1,0 +1,3 @@
+# Weighted set cover description file; first line lists universe (all elements);
+# each other line lists a coverage set while last element in line is the set weight
+ 
